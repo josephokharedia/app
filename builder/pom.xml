@@ -21,6 +21,10 @@
             <groupId>com.airstyl</groupId>
             <artifactId>audit-services</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.airstyl</groupId>
+            <artifactId>gateway-core</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
